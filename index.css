@@ -499,3 +499,7 @@
 .wp-block-social-links:not(.has-icon-color):not(.has-icon-background-color) .wp-social-link-snapchat .wp-block-social-link-label {
     color: #000
 }
+
+i {
+    font-size: x-large;
+}
