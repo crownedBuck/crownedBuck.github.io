@@ -2,3 +2,7 @@ i {
     font-size: 5em;
     font-weight: bold;
 }
+
+i:hover {
+    background-color: rgb(27, 202, 114);
+}
